@@ -1,0 +1,1 @@
+This is a simple reusable component that displays user reviews in a slider, your can view each user review in an order or get reviews reviews at random.
